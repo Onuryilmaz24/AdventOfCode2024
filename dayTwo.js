@@ -112,4 +112,4 @@ function redNosedReportsProblemDampener(inputFile) {
   return safeReports;
 
 }
-redNosedReportsProblemDampener("secondDayInputTwo");
+redNosedReportsProblemDampener("secondDayInput");
